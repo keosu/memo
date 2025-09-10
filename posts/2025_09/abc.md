@@ -5,4 +5,4 @@ print("hey")
 ```
 
 > wysiwyg
-![2.jpg](1)
+ ![2.jpg](1)
