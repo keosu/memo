@@ -1,1 +1,0 @@
-![2.jpg](https://raw.githubusercontent.com/keosu/memo/main/posts/imgs/1757477489899_sh2f3p_2.jpg)
